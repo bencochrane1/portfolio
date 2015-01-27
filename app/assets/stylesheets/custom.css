@@ -364,7 +364,12 @@ SVG Icons
         rgba(48, 63, 159, 0.9)
       ),
       url('sensei-home-page.png') no-repeat;
+  background-color:       linear-gradient(
+        rgba(48, 63, 159, 0.9),
+        rgba(48, 63, 159, 0.9)
+      )
   background-size: cover;
+  transition: all 0.2s;
 }
 
 .home-techteacher:hover {
